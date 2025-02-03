@@ -1,4 +1,10 @@
+import os,sys
+from gobblers import gobwf
+
+
 def main():
-    print("Hello World")
-if __name__=="__main__":
-    main()
+    print("Welcome To Bill Analyzer!")
+    #1. Ingest WF PDFS 
+    gobwf()
+
+
