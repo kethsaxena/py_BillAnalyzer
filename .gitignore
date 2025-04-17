@@ -1,2 +1,10 @@
-bA-env/
+# Python specific
+baENV/
 jupyter-NBK/.ipy*
+**/__pycache__/
+
+# Ignore EGG folder for distribution 
+billAnalyzer.egg-info/
+
+# Ignore folder Misc
+billAnallyzer.egg-info/

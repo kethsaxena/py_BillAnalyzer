@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../localVenv"
+		},
+		{
+			"path": "../../launchDebugger"
+		},
+		{
+			"path": "."
+		}
+	]
+}
